@@ -106,6 +106,7 @@ main > h2{
     color: var(--cor5);
     font-size: 1.2em;
     text-indent: 10px;
+    text-align: left;
 }
 
 main p{
